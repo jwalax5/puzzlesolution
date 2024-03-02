@@ -1,3 +1,7 @@
+package com.puzzlesolution;
+
+import com.puzzlesolution.Result;
+
 import java.util.List;
 
 public class Solution {
@@ -11,7 +15,7 @@ public class Solution {
      */
 
     public List<Result> run(){
-        //Main.board;
+        //com.puzzlesolution.Main.board;
         return null;
     }
 

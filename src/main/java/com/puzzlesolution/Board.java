@@ -1,8 +1,15 @@
+package com.puzzlesolution;
+
+
+import lombok.Data;
+
+
+@Data
 public class Board {
     private Size size;
-    private static Orb[][] orbs;
+    private Orb[][] orbs;
 
-    // 2D array of Orb
+    // 2D array of com.puzzlesolution.Orb
     public enum Size {
         LARGE,
         NORMAL,

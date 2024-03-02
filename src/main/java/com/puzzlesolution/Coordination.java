@@ -1,3 +1,5 @@
+package com.puzzlesolution;
+
 public class Coordination {
     private int x;
     private int y;
